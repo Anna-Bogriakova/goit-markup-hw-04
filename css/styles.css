@@ -489,6 +489,7 @@ img {
 .container-footer {
   display: flex;
   align-items: baseline;
+  margin: 0 auto;
 }
 
 .footer-one {
